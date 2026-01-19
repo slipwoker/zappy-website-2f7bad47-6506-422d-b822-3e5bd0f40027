@@ -1,0 +1,63 @@
+# סלולרי — Generative Engine Optimization Map
+
+> A טכנולוגיה ותקשורת business.
+
+---
+
+## Pages
+
+### בית
+https://-2f7bad47.zappy5.app
+גלו את הטכנולוגיה המתקדמת ביותר עם סלולרי - חנות סלולרית המציעה iphone 14 pro max 128 zap, xiaomi 12t ksp ומגוון מכשירים סלולריים מובילים. פתרונות מותאמים אישית לכל צורך.
+
+### מוצרים
+https://-2f7bad47.zappy5.app/products
+גלו את מגוון המכשירים הסלולריים המתקדמים שלנו - iphone 14 pro max 128 zap, xiaomi 12t ksp, iphone 14 128 zap ועוד. חנות סלולרית עם מבחר ענק של מכשירים מובילים במחירים תחרותיים.
+
+### שירותים
+https://-2f7bad47.zappy5.app/services
+שירותים מקצועיים לכל צורך - תיקונים, שדרוגים, ייעוץ טכנולוגי ופתרונות עסקיים. החנות הסלולרית המובילה עם שירות אישי ומקצועי למכשירים כמו iphone 14 pro max 128 zap ו-xiaomi 12t ksp.
+
+### אודות
+https://-2f7bad47.zappy5.app/about
+הכירו את סלולרי - חנות סלולרית מובילה המתמחה במכשירים מתקדמים כמו iphone 14 pro max 128 zap ו-xiaomi 12t ksp. שירות מקצועי, מחירים תחרותיים וחוויית קנייה יוצאת דופן.
+
+### צור קשר
+https://-2f7bad47.zappy5.app/contact
+צרו קשר עם החנות הסלולרית המובילה - נשמח לעזור לכם למצוא את המכשיר המושלם, לענות על שאלות או לספק שירות מקצועי. התקשרו, כתבו או בואו לבקר אותנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2f7bad47.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2f7bad47.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2f7bad47.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סלולרי
+סלולרי is a business in the טכנולוגיה ותקשורת industry.
+
+## Target Audience
+- חובבי טכנולוגיה
+- אנשי מקצוע עסקיים
+- סטודנטים
+
+## Industry
+טכנולוגיה ותקשורת
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-2f7bad47.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-2f7bad47.zappy5.app/robots.txt
